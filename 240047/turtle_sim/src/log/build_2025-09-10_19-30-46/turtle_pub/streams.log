@@ -1,0 +1,41 @@
+[0.367s] Invoking command in '/home/adithya/turtle_sim/src/turtle_pub': PYTHONPATH=/home/adithya/turtle_sim/src/build/turtle_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_pub build --build-base /home/adithya/turtle_sim/src/build/turtle_pub/build install --record /home/adithya/turtle_sim/src/build/turtle_pub/install.log --single-version-externally-managed install_data
+[0.516s] running egg_info
+[0.516s] creating ../build/turtle_pub/turtle_pub.egg-info
+[0.517s] writing ../build/turtle_pub/turtle_pub.egg-info/PKG-INFO
+[0.517s] writing dependency_links to ../build/turtle_pub/turtle_pub.egg-info/dependency_links.txt
+[0.517s] writing entry points to ../build/turtle_pub/turtle_pub.egg-info/entry_points.txt
+[0.517s] writing requirements to ../build/turtle_pub/turtle_pub.egg-info/requires.txt
+[0.517s] writing top-level names to ../build/turtle_pub/turtle_pub.egg-info/top_level.txt
+[0.517s] writing manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+[0.518s] reading manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+[0.518s] writing manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+[0.518s] running build
+[0.518s] running build_py
+[0.519s] creating /home/adithya/turtle_sim/src/build/turtle_pub/build
+[0.519s] creating /home/adithya/turtle_sim/src/build/turtle_pub/build/lib
+[0.519s] creating /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+[0.519s] copying turtle_pub/draw_circle_server.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+[0.519s] copying turtle_pub/__init__.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+[0.519s] copying turtle_pub/draw_circle_client.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+[0.519s] running install
+[0.519s] running install_lib
+[0.519s] creating /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+[0.519s] copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/draw_circle_server.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+[0.519s] copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/__init__.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+[0.520s] copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/draw_circle_client.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+[0.520s] byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/draw_circle_server.py to draw_circle_server.cpython-310.pyc
+[0.520s] byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/__init__.py to __init__.cpython-310.pyc
+[0.520s] byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/draw_circle_client.py to draw_circle_client.cpython-310.pyc
+[0.520s] running install_data
+[0.520s] creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index
+[0.520s] creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index
+[0.520s] creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index/packages
+[0.521s] copying resource/turtle_pub -> /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index/packages
+[0.521s] copying package.xml -> /home/adithya/turtle_sim/src/install/turtle_pub/share/turtle_pub
+[0.521s] running install_egg_info
+[0.521s] Copying ../build/turtle_pub/turtle_pub.egg-info to /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub-0.0.0-py3.10.egg-info
+[0.522s] running install_scripts
+[0.536s] Installing draw_circle_client script to /home/adithya/turtle_sim/src/install/turtle_pub/lib/turtle_pub
+[0.536s] Installing draw_circle_server script to /home/adithya/turtle_sim/src/install/turtle_pub/lib/turtle_pub
+[0.536s] writing list of installed files to '/home/adithya/turtle_sim/src/build/turtle_pub/install.log'
+[0.550s] Invoked command in '/home/adithya/turtle_sim/src/turtle_pub' returned '0': PYTHONPATH=/home/adithya/turtle_sim/src/build/turtle_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_pub build --build-base /home/adithya/turtle_sim/src/build/turtle_pub/build install --record /home/adithya/turtle_sim/src/build/turtle_pub/install.log --single-version-externally-managed install_data

@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/turtle_pub/turtle_pub.egg-info
+writing ../build/turtle_pub/turtle_pub.egg-info/PKG-INFO
+writing dependency_links to ../build/turtle_pub/turtle_pub.egg-info/dependency_links.txt
+writing entry points to ../build/turtle_pub/turtle_pub.egg-info/entry_points.txt
+writing requirements to ../build/turtle_pub/turtle_pub.egg-info/requires.txt
+writing top-level names to ../build/turtle_pub/turtle_pub.egg-info/top_level.txt
+writing manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+reading manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+writing manifest file '../build/turtle_pub/turtle_pub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/adithya/turtle_sim/src/build/turtle_pub/build
+creating /home/adithya/turtle_sim/src/build/turtle_pub/build/lib
+creating /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+copying turtle_pub/draw_circle_server.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+copying turtle_pub/__init__.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+copying turtle_pub/draw_circle_client.py -> /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub
+running install
+running install_lib
+creating /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/draw_circle_server.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/__init__.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+copying /home/adithya/turtle_sim/src/build/turtle_pub/build/lib/turtle_pub/draw_circle_client.py -> /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub
+byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/draw_circle_server.py to draw_circle_server.cpython-310.pyc
+byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub/draw_circle_client.py to draw_circle_client.cpython-310.pyc
+running install_data
+creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index
+creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index
+creating /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index/packages
+copying resource/turtle_pub -> /home/adithya/turtle_sim/src/install/turtle_pub/share/ament_index/resource_index/packages
+copying package.xml -> /home/adithya/turtle_sim/src/install/turtle_pub/share/turtle_pub
+running install_egg_info
+Copying ../build/turtle_pub/turtle_pub.egg-info to /home/adithya/turtle_sim/src/install/turtle_pub/lib/python3.10/site-packages/turtle_pub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw_circle_client script to /home/adithya/turtle_sim/src/install/turtle_pub/lib/turtle_pub
+Installing draw_circle_server script to /home/adithya/turtle_sim/src/install/turtle_pub/lib/turtle_pub
+writing list of installed files to '/home/adithya/turtle_sim/src/build/turtle_pub/install.log'

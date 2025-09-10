@@ -1,0 +1,4 @@
+[console_scripts]
+draw_circle_client = turtle_pub.draw_circle_client:main
+draw_circle_server = turtle_pub.draw_circle_server:main
+
